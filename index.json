@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-11-19T00:00:00Z",
+  "modules": [
+    {
+      "contentRating": "suggestive",
+      "contentType": "pageImages",
+      "familyID": "manga3asq-ar",
+      "id": "manga3asq-ar",
+      "language": "ar",
+      "name": "مانجا العاشق (3asq)",
+      "releaseTrack": "beta",
+      "status": "active",
+      "version": "1.0.0",
+      "icon": {
+        "path": "modules/manga3asq-ar/icon.png",
+        "sha256": "fd9ea41dbe2ca535ae53f47af37bd1148b78c1ce346893b01ecc3664050e773b"
+      },
+      "manifest": {
+        "path": "modules/manga3asq-ar/manifest.json",
+        "sha256": "7afdfd116de306f84a1be62edfaeb7899f5851137dcc535caae335a2f671b010"
+      }
+    }
+  ],
+  "repository": {
+    "homepage": "https://github.com/YOUR-GITHUB-USERNAME/synthetiq-3asq-source",
+    "id": "community.manga3asq.ar",
+    "name": "3asq Arabic — Community Synthetiq Source",
+    "owner": "Community",
+    "universalLink": "https://synthetiq.uk/manga/modules"
+  },
+  "schemaVersion": 1
+}
