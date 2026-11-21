@@ -1,0 +1,50 @@
+{
+  "allowedHosts": [
+    "3asq.online"
+  ],
+  "attribution": {
+    "author": "Independent 3asq community module (not affiliated with 3asq or Synthetiq)",
+    "authorizationURL": null,
+    "licenseName": "MIT (module code only; not third-party manga)",
+    "licenseURL": null,
+    "website": "https://3asq.online"
+  },
+  "baseURL": "https://3asq.online",
+  "capabilities": [
+    "latest",
+    "search",
+    "details",
+    "chapters",
+    "images",
+    "imageRequest",
+    "discovery"
+  ],
+  "contentRating": "suggestive",
+  "contentType": "pageImages",
+  "contractVersion": 1,
+  "entry": {
+    "path": "modules/manga3asq-ar/index.js",
+    "sha256": "0c3c0ff0efe9b027aea5f1fb33ee9e010d71a350be55a5c88777622b580bc797"
+  },
+  "familyID": "manga3asq-ar",
+  "icon": {
+    "path": "modules/manga3asq-ar/icon.png",
+    "sha256": "fd9ea41dbe2ca535ae53f47af37bd1148b78c1ce346893b01ecc3664050e773b"
+  },
+  "id": "manga3asq-ar",
+  "language": "ar",
+  "legacyIDs": [],
+  "limits": {
+    "cacheTTLSeconds": 300,
+    "maxConcurrentRequests": 2,
+    "maxResponseBytes": 8388608,
+    "maxScriptBytes": 262144,
+    "timeoutMilliseconds": 25000
+  },
+  "minimumAppVersion": "1.0.0",
+  "name": "مانجا العاشق (3asq)",
+  "releaseTrack": "beta",
+  "status": "active",
+  "universalLink": "https://synthetiq.uk/manga/modules/manga3asq-ar",
+  "version": "1.0.0"
+}
